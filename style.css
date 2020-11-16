@@ -1,0 +1,19 @@
+p{
+    color: red;
+}
+
+body{
+    background-color: #87b5f2;
+}
+
+#mainimage{
+    float: left;
+    max-width: 5%;
+}
+
+#top p{
+    font-size: 6vmin;
+    display: inline-block;
+    margin-top: 2%;
+    margin-left: 2%;
+}
