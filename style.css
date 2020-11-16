@@ -3,7 +3,7 @@ p{
 }
 
 body{
-    background-color: #87b5f2;
+    background-color: #87b5f2;s
 }
 
 #mainimage{
@@ -16,4 +16,11 @@ body{
     display: inline-block;
     margin-top: 2%;
     margin-left: 2%;
+}
+#main{
+    min-height: 50px;
+    background-color: white;
+    border-radius: 25px;
+    margin-left: 2.5%;
+    margin-top: 6%;
 }
