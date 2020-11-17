@@ -24,3 +24,8 @@ body{
     margin-left: 2.5%;
     margin-top: 6%;
 }
+.loopimage{
+position: inline-block;
+max-width: 5%;
+margin-left: 2%;
+}
